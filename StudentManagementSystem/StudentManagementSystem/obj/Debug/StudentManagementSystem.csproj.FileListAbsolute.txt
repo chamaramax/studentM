@@ -1,0 +1,1 @@
+D:\Git\studentM\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
